@@ -273,6 +273,13 @@ button {
   font-weight: 700;
 }
 
+.letter-from {
+  margin-top: 8px;
+  color: #8b6d78;
+  font-family: "Segoe Print", "Comic Sans MS", "Bradley Hand ITC", cursive;
+  font-size: 21px;
+}
+
 .seal-button {
   position: absolute;
   z-index: 4;
